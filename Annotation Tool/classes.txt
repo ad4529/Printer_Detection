@@ -1,0 +1,12 @@
+person
+chair
+diningtable
+tvmonitor
+laptop
+mouse
+remote
+keyboard
+cell phone
+printer
+printer
+paper bin
